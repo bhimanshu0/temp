@@ -12,3 +12,13 @@ git clone remote_repo_link
 git remote -v
 this gives link of the origin, the link of the remote repo the local repo is connected to it.
 
+git status
+this tells us about if any uncommited changes are there
+
+git add *
+this all the files that are present in the current repository to staging area.
+staging area is an area where files are waiting for being commited.
+
+git commit -m msg
+this is used to commit the changes with message added.
+
