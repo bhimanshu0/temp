@@ -8,3 +8,7 @@ git config user.location
 
 creates the local copy of the remote repo
 git clone remote_repo_link
+
+git remote -v
+this gives link of the origin, the link of the remote repo the local repo is connected to it.
+
