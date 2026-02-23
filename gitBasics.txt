@@ -1,0 +1,10 @@
+Git Basics:
+git config user.name ""
+git config user.email ""
+git config user.bio ""
+git config user.company ""
+git config user.location
+
+
+creates the local copy of the remote repo
+git clone remote_repo_link
